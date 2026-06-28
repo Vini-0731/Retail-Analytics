@@ -1,2 +1,2 @@
-# Retail-Analytics
-Retail sales and inventory analytics using MySQL and Power BI
+# Retail Analytics Project
+MySQL + Power BI projects using sales, inventory, products, stores and calendar.
