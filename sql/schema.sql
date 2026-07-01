@@ -7,7 +7,7 @@ USE retail_db;
 
 -- 1. Calendar table
 CREATE TABLE calendar(
-date_id DATE PRIMARY KEY,
+date_id DATE ,
 weather_condition VARCHAR(20),
 is_holiday INT,
 promotion INT,
