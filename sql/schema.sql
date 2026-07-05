@@ -12,3 +12,9 @@ weather_condition VARCHAR(10),
 holiday_or_promotion INT,
 seasonality VARCHAR(10)
 );
+
+-- 2. Stores table
+CREATE TABLE stores (
+    store_id VARCHAR(10),
+    region VARCHAR(20)
+);
